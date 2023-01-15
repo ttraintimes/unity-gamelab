@@ -14,5 +14,10 @@ public class MenuUI : MonoBehaviour
     {
         Application.Quit();
     }
+    
+    public void restartBtn()
+    {
+        SceneManager.LoadScene("menu");
+    }
 
 }

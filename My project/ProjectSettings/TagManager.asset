@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interactable
+  - main
+  - anna
+  - GlassDoor
+  - gate
+  - xiangzi
+  - end
+  - next
+  - previous
   layers:
   - Default
   - TransparentFX
