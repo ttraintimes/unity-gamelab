@@ -2917,6 +2917,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2566354545378456282, guid: e15b7e4280dc3434cb6da36b75b94051,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5239880951821998015, guid: e15b7e4280dc3434cb6da36b75b94051,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5239880951848541198, guid: e15b7e4280dc3434cb6da36b75b94051,
         type: 3}
       propertyPath: myAS
@@ -3031,6 +3041,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5239880952574666473, guid: e15b7e4280dc3434cb6da36b75b94051,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6561610241652920241, guid: e15b7e4280dc3434cb6da36b75b94051,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e15b7e4280dc3434cb6da36b75b94051, type: 3}
