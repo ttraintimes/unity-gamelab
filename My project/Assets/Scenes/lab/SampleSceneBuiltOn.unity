@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.57087165, g: 1.0319954, b: 1.3979261, a: 1}
+  m_IndirectSpecularColor: {r: 0.68362457, g: 1.1113902, b: 1.3979261, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -8187,6 +8187,21 @@ PrefabInstance:
       propertyPath: InteractableLayer.m_Bits
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 1974739771254854891, guid: dcf5c0851e7014c5fab2bd0a4db1f371,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0.7169812
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974739771254854891, guid: dcf5c0851e7014c5fab2bd0a4db1f371,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0.7169812
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974739771254854891, guid: dcf5c0851e7014c5fab2bd0a4db1f371,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0.7169812
+      objectReference: {fileID: 0}
     - target: {fileID: 4612602945141806933, guid: dcf5c0851e7014c5fab2bd0a4db1f371,
         type: 3}
       propertyPath: m_Enabled
@@ -8217,6 +8232,11 @@ PrefabInstance:
       propertyPath: newSceneName
       value: test
       objectReference: {fileID: 0}
+    - target: {fileID: 5846396830104099928, guid: dcf5c0851e7014c5fab2bd0a4db1f371,
+        type: 3}
+      propertyPath: m_CustomSkybox
+      value: 
+      objectReference: {fileID: 2100000, guid: 440d8a9150a224a4db3b1845dd6a3c2e, type: 2}
     - target: {fileID: 6115090777241257893, guid: dcf5c0851e7014c5fab2bd0a4db1f371,
         type: 3}
       propertyPath: textBackground
