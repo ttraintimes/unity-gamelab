@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/lab/SampleSceneBuiltOn.unity
     guid: 0e8c78b461188474485027c861ecce3f
+  - enabled: 1
+    path: Assets/Scenes/lab/test.unity
+    guid: 39567c0803caa4390897bdd9ef177b7f
   m_configObjects: {}
